@@ -10,7 +10,8 @@ const Menu = ()=>
   <p><a href='#possibility'>OpenAI</a></p>
   <p><a href='#features'>Case Studies</a></p>
   <p><a href='#blog'>Library</a></p>
-  </>)
+  </>
+  )
 
 
 const Navbar = () => {
